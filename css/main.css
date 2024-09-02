@@ -20,7 +20,6 @@ body {
 }
 
 .content {
-  /* Add display: flex; and the Flexbox properties to center the "content" */
   display: flex;
   justify-content: center;
   align-items: center;
